@@ -1,0 +1,7 @@
+C:\Users\Viktor\Desktop\Ruander\C#\VersenyOnalloFeladato\bin\Debug\VersenyOnalloFeladato.exe.config
+C:\Users\Viktor\Desktop\Ruander\C#\VersenyOnalloFeladato\bin\Debug\VersenyOnalloFeladato.exe
+C:\Users\Viktor\Desktop\Ruander\C#\VersenyOnalloFeladato\bin\Debug\VersenyOnalloFeladato.pdb
+C:\Users\Viktor\Desktop\Ruander\C#\VersenyOnalloFeladato\obj\Debug\VersenyOnalloFeladato.csprojAssemblyReference.cache
+C:\Users\Viktor\Desktop\Ruander\C#\VersenyOnalloFeladato\obj\Debug\VersenyOnalloFeladato.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\Ruander\C#\VersenyOnalloFeladato\obj\Debug\VersenyOnalloFeladato.exe
+C:\Users\Viktor\Desktop\Ruander\C#\VersenyOnalloFeladato\obj\Debug\VersenyOnalloFeladato.pdb
