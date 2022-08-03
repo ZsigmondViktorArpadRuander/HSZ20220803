@@ -9,6 +9,7 @@ namespace VersenyOnalloFeladato
 {
     class Program
     {
+	//Repo komment
         //Versenyzo struktura
         public struct Versenyzo
         {
